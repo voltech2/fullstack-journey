@@ -1,5 +1,7 @@
 Fullstack Learning Program in 150 Days (autodidact)
 
+Technology: HTML, Tailwind CSS, Next.js (Frontend); Node.js, Spring Boot (Backend); Git, Docker (Tools).
+
 🚀 Hari 1
 📅 Tanggal: 14 April 2025
 🎯 Tujuan: Membangun fondasi HTML/CSS + Tailwind CSS.
